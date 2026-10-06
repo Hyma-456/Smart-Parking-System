@@ -1,0 +1,10 @@
+com\smartparking\parkingservice\ParkingServiceApplication.class
+com\smartparking\parkingservice\repository\ParkingRepository.class
+com\smartparking\parkingservice\service\ParkingService.class
+com\smartparking\parkingservice\model\Parking$ParkingBuilder.class
+com\smartparking\parkingservice\controller\ParkingController.class
+com\smartparking\parkingservice\model\Parking.class
+com\smartparking\parkingservice\repository\ParkingSlotRepository.class
+com\smartparking\parkingservice\controller\ParkingSlotController.class
+com\smartparking\parkingservice\model\ParkingSlot.class
+com\smartparking\parkingservice\service\ParkingSlotService.class

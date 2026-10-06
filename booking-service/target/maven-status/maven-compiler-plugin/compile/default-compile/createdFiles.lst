@@ -1,0 +1,7 @@
+com\smartparking\bookingservice\BookingServiceApplication.class
+com\smartparking\bookingservice\controller\BookingController.class
+com\smartparking\bookingservice\model\Booking.class
+com\smartparking\bookingservice\model\Booking$BookingBuilder.class
+com\smartparking\bookingservice\service\BookingService.class
+com\smartparking\bookingservice\client\ParkingClient.class
+com\smartparking\bookingservice\repository\BookingRepository.class
